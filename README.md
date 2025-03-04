@@ -39,6 +39,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project directory and add your OpenAI API key:  
 ```
 OPENAI_API_KEY=your_api_key_here
+SERPER_API_KEY=your_api_key_here
 ```
 
 ### **5. Run the Application**  
