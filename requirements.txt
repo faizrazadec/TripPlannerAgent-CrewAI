@@ -1,0 +1,5 @@
+crewai==0.102.0
+langchain==0.3.19
+langchain-openai==0.3.7
+agentops==0.3.26
+dotenv==0.9.9
