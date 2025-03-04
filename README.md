@@ -4,7 +4,7 @@
 The **Trip Planner Agent** is a powerful tool built on top of the **CrewAI** framework, designed to assist travelers in planning and scheduling their trips. This project showcases how CrewAI automates the decision-making process when travelers are uncertain about their destination choices. By leveraging a team of autonomous AI agents, CrewAI enables seamless collaboration to analyze different options and generate an optimized travel itinerary tailored to user preferences.  
 
 ## **CrewAI Framework**  
-CrewAI is designed to facilitate intelligent collaboration between role-based AI agents. In this project, these agents work together to assess various cities, compare travel conditions, and craft a well-structured itinerary that aligns with the traveler's preferences and budget.  
+[CrewAI](https://www.crewai.com/) is designed to facilitate intelligent collaboration between role-based AI agents. In this project, these agents work together to assess various cities, compare travel conditions, and craft a well-structured itinerary that aligns with the traveler's preferences and budget.  
 
 ## **Prerequisites**  
 - Python 3.8 or later  
