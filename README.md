@@ -8,11 +8,11 @@ The **Trip Planner Agent** is a powerful tool built on top of the **CrewAI** fra
 
 ## **Prerequisites**  
 - Python 3.8 or later  
-- Access to **GPT-4o-mini** (default model used)  
+- Access to **gpt-4o-mini** (default model used)  
 - OpenAI API key  
 - Required dependencies (listed in `requirements.txt`)  
 
-⚠️ **Disclaimer:** This script defaults to **GPT-4o-mini** unless modified, which may incur usage costs.  
+⚠️ **Disclaimer:** This script defaults to **gpt-4o-mini** unless modified, which may incur usage costs.  
 
 ---
 
