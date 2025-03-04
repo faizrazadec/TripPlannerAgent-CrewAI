@@ -20,8 +20,8 @@ CrewAI is designed to facilitate intelligent collaboration between role-based AI
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/trip-planner-agent.git
-cd trip-planner-agent
+git clone https://github.com/faizrazadec/TripPlannerAgent-CrewAI.git
+cd TripPlannerAgent-CrewAI
 ```
 
 ### **2. Set Up a Virtual Environment**  
