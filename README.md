@@ -202,3 +202,9 @@ python3 main.py
 - Swimwear for beach days.  
 
 🚀 **Start planning your dream trip today with AI-powered efficiency!**
+
+### ⭐ **Support This Project!**  
+If you found this useful, **please consider leaving a star ⭐ on GitHub**!  
+It motivates me to keep building more **open-source tools** 🚀  
+
+---
